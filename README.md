@@ -10,6 +10,8 @@ This is a compilation of my EFIs for Hackintosh, see more info below:
 
 ![progress](https://img.shields.io/badge/progress-almost_done-blue.svg)
 
+Might be work on Intel Core i5 5200U and/or i7 5500U devices.
+
 ---
 
 **Asus X555QA EFIs:**
@@ -18,6 +20,7 @@ This is a compilation of my EFIs for Hackintosh, see more info below:
 
 ![progress](https://img.shields.io/badge/progress-in_developing-orange.svg)
 
+Might be work on almost any AMD Family (Excavator/Bristol Ridge) 15h device.
 ---
 
 **Acer Aspire 5749G EFI:**
@@ -26,6 +29,7 @@ This is a compilation of my EFIs for Hackintosh, see more info below:
 
 ![progress](https://img.shields.io/badge/progress-in_developing-orange.svg)
 
+Might be work on Intel Core i3 2330M/2350M/2375M and/or i5 2430M devices.
 ---
 
 **Huawei Matebook D14 2021 Intel Model:**
@@ -34,6 +38,7 @@ This is a compilation of my EFIs for Hackintosh, see more info below:
 
 ![progress](https://img.shields.io/badge/progress-almost_done-blue.svg)
 
+Might be work on Intel Core i5 1135G7 and/or i5 1155G7 devices.
 ---
 
 
