@@ -20,7 +20,7 @@ Might be work on Intel Core i5 5200U and/or i7 5500U devices.
 
 ![progress](https://img.shields.io/badge/progress-in_developing-orange.svg)
 
-Might be work on almost any AMD Family (Excavator/Bristol Ridge) 15h device.
+Might be work on almost any AMD Family 15h (Excavator/Bristol Ridge) device.
 
 ---
 
