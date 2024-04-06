@@ -8,7 +8,7 @@ This is a compilation of my EFIs for Hackintosh, see more info below:
 
 [![TravelMate](https://i.imgur.com/BKvumkU.png)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore)
 
-![progress](https://img.shields.io/badge/progress-almost_done-blue.svg)
+![progress](https://img.shields.io/badge/progress-done-blue.svg)
 
 Might be work on Intel Core i5 5200U and/or i7 5500U devices.
 
@@ -18,7 +18,7 @@ Might be work on Intel Core i5 5200U and/or i7 5500U devices.
 
 [![Asus](https://i.imgur.com/yuAgctK.png)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh)
 
-![progress](https://img.shields.io/badge/progress-in_developing-orange.svg)
+![progress](https://img.shields.io/badge/progress-in_early_developing-red.svg)
 
 Might be work on almost any AMD Family 15h (Excavator/Bristol Ridge) device.
 
@@ -28,7 +28,7 @@ Might be work on almost any AMD Family 15h (Excavator/Bristol Ridge) device.
 
 [![Aspire](https://i.imgur.com/G3qQ9T2.png)](https://github.com/sebasrock156/Acer-Aspire-5749-Hackintosh)
 
-![progress](https://img.shields.io/badge/progress-in_developing-orange.svg)
+![progress](https://img.shields.io/badge/progress-almost_done-orange.svg)
 
 Might be work on Intel Core i3 2330M/2350M/2375M and/or i5 2430M devices.
 
@@ -38,7 +38,7 @@ Might be work on Intel Core i3 2330M/2350M/2375M and/or i5 2430M devices.
 
 [![Huawei](https://i.imgur.com/hVAkcmx.png)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore)
 
-![progress](https://img.shields.io/badge/progress-almost_done-blue.svg)
+![progress](https://img.shields.io/badge/progress-almost_done-orange.svg)
 
 Might be work on Intel Core i5 1135G7 and/or i5 1155G7 devices.
 
