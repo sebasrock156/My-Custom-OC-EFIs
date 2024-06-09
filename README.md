@@ -44,9 +44,9 @@ Might be work on Intel Core i5 1135G7 and/or i5 1155G7 devices.
 
 ---
 
-**Asus H81M-K EFI**
+**Asus H81M-K EFI:**
 
-[![AsusPC]()](https://github.com/sebasrock156/Asus-H81M-K-OpenCore)
+[![AsusPC](https://i.imgur.com/RX50NRT.png)](https://github.com/sebasrock156/Asus-H81M-K-OpenCore)
 
 ![progress](https://img.shields.io/badge/progress-in_early_developing-red.svg)
 
@@ -54,9 +54,9 @@ Might be work on all Intel Core supported processors; for Xeons E3 models you ne
 
 ---
 
-**Huananzhi X99E-K4 EFI**
+**Huananzhi X99E-K4 EFI:**
 
-[![HuananzhiPC]()](https://github.com/sebasrock156/Huananzhi-X99E-K4-Opencore)
+[![HuananzhiPC](https://i.imgur.com/ukuasNB.png)](https://github.com/sebasrock156/Huananzhi-X99E-K4-Opencore)
 
 ![progress](https://img.shields.io/badge/progress-in_early_developing-red.svg)
 
