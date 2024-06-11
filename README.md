@@ -10,6 +10,8 @@ This is a compilation of my EFIs for Hackintosh, see more info below:
 
 ![progress](https://img.shields.io/badge/progress-done-blue.svg)
 
+**Available:** MacOS BigSur (until 11.6.2), Monterey (until 12.7), Ventura (until 13.4 or 13.6 with Sonoma EFI), Sonoma)
+
 Might be work on Intel Core i5 5200U and/or i7 5500U devices.
 
 ---
@@ -19,6 +21,8 @@ Might be work on Intel Core i5 5200U and/or i7 5500U devices.
 [![Asus](https://i.imgur.com/yuAgctK.png)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh)
 
 ![progress](https://img.shields.io/badge/progress-in_early_developing-red.svg)
+
+**Available:** MacOS High Sierra (until 13.13.6)
 
 Might be work on almost any AMD Family 15h (Excavator/Bristol Ridge) device.
 
@@ -30,6 +34,8 @@ Might be work on almost any AMD Family 15h (Excavator/Bristol Ridge) device.
 
 ![progress](https://img.shields.io/badge/progress-almost_done-orange.svg)
 
+**Available:** MacOS Monterey (until 12.7), Ventura (until 13.4)
+
 Might be work on Intel Core i3 2330M/2350M/2375M and/or i5 2430M devices.
 
 ---
@@ -39,6 +45,8 @@ Might be work on Intel Core i3 2330M/2350M/2375M and/or i5 2430M devices.
 [![Huawei](https://i.imgur.com/hVAkcmx.png)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore)
 
 ![progress](https://img.shields.io/badge/progress-almost_done-orange.svg)
+
+**Available:** MacOS BigSur (until 11.6.2), Monterey (until 12.7), Ventura (until 13.4).
 
 Might be work on Intel Core i5 1135G7 and/or i5 1155G7 devices.
 
@@ -50,6 +58,8 @@ Might be work on Intel Core i5 1135G7 and/or i5 1155G7 devices.
 
 ![progress](https://img.shields.io/badge/progress-in_early_developing-red.svg)
 
+**Available:** MacOS BigSur (until 11.6.2), Monterey (until 12.7), Ventura (until 13.4).
+
 Might be work on all Intel Core supported processors; for Xeons E3 models you need do some modifications.
 
 ---
@@ -59,6 +69,8 @@ Might be work on all Intel Core supported processors; for Xeons E3 models you ne
 [![HuananzhiPC](https://i.imgur.com/ukuasNB.png)](https://github.com/sebasrock156/Huananzhi-X99E-K4-Opencore)
 
 ![progress](https://img.shields.io/badge/progress-in_early_developing-red.svg)
+
+**Available:** MacOS Monterey (until 12.7), Ventura (until 13.4).
 
 Might be work on all Intel LGA2011-3 supported processors.
 
