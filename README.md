@@ -76,3 +76,13 @@ Might be work on all Intel LGA2011-3 supported processors.
 
 ---
 
+**AsRock B365M Pro4 EFI:**
+
+[![AsRock](https://i.imgur.com/Iyfv9DK.png)](https://github.com/sebasrock156/AsRock-B365M-Pro4-OpenCore)
+
+**Available:** MacOS Monterey (until 12.7), Ventura (until 13.4).
+
+Might be work on all Intel LGA1151 supported processors.
+
+---
+
