@@ -80,6 +80,8 @@ Might be work on all Intel LGA2011-3 supported processors.
 
 [![AsRock](https://i.imgur.com/Iyfv9DK.png)](https://github.com/sebasrock156/AsRock-B365M-Pro4-OpenCore)
 
+![progress](https://img.shields.io/badge/progress-in_early_developing-red.svg)
+
 **Available:** MacOS Monterey (until 12.7), Ventura (until 13.4).
 
 Might be work on all Intel LGA1151 supported processors.
