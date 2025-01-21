@@ -2,89 +2,25 @@
 
 This is a compilation of my EFIs for Hackintosh, see more info below:
 
----
+## Desktop
 
-**Acer Aspire E5-471G | Acer Aspire E5-572G | TravelMate P246-MG EFIs:**
+Support | Asus H81M-K | Huananzhi X99E-K4 | AsRock B365M Pro4| AsRock X99 Extreme4 | AsRock X399 Taichi | MSI A68HM-P33
+--- | --- | --- | --- | --- | --- | :--: 
+Links | [![H81M](https://i.imgur.com/NBLscqS.png)](https://github.com/sebasrock156/Asus-H81M-K-OpenCore) | [![HX99E](https://i.imgur.com/HPjSgUw.png)](https://github.com/sebasrock156/Huananzhi-X99E-K4-Opencore) | [![B365](https://i.imgur.com/AkI7XAk.png)](https://github.com/sebasrock156/AsRock-B365M-Pro4-OpenCore) | [![X99Ex4](https://i.imgur.com/Q8CgiQa.png)](https://github.com/sebasrock156/AsRock-X99-Opencore) | [![X399](https://i.imgur.com/baWhxO3.png)](soon)| [![A68](https://i.imgur.com/gUhAdDk.png)](soon)
+OSX 11 (BigSur) | ✅ | ✅ | ✅ | ✅ (remove the USBToolBox kexts) | N/A | N/A
+OSX 12 (Monterey) | ✅ | ✅ | ✅ | ✅ | ✅ (testing) | N/A?
+OSX 13 (Ventura) | ✅ (use OCLP for iGPU)| ✅ (boot may be have some glicht)| ✅ | ✅ | ✅ (testing) | ✅ (testing)
+OSX 14 (Sonoma) | ✅ (use OCLP for iGPU) | ✅ (sleep mode works partially) | ✅ (use a dGPU instead if iGPU launch black screen via HDMI) | ✅ (sleep mode works partially) | ✅ (testing) | ✅ (testing)
 
-[![TravelMate](https://i.imgur.com/BKvumkU.png)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore)
+## Laptop
 
-![progress](https://img.shields.io/badge/progress-done-blue.svg)
-
-**Available:** MacOS BigSur (until 11.6.2), Monterey (until 12.7), Ventura (until 13.4 or 13.6 with Sonoma EFI), Sonoma)
-
-Might be work on Intel Core i5 5200U and/or i7 5500U devices.
-
----
-
-**Asus X555QA EFIs:**
-
-[![Asus](https://i.imgur.com/yuAgctK.png)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh)
-
-![progress](https://img.shields.io/badge/progress-in_early_developing-red.svg)
-
-**Available:** MacOS High Sierra (until 13.13.6)
-
-Might be work on almost any AMD Family 15h (Excavator/Bristol Ridge) device.
-
----
-
-**Acer Aspire 5749G EFI:**
-
-[![Aspire](https://i.imgur.com/G3qQ9T2.png)](https://github.com/sebasrock156/Acer-Aspire-5749-Hackintosh)
-
-![progress](https://img.shields.io/badge/progress-almost_done-orange.svg)
-
-**Available:** MacOS Monterey (until 12.7), Ventura (until 13.4)
-
-Might be work on Intel Core i3 2330M/2350M/2375M and/or i5 2430M devices.
-
----
-
-**Huawei Matebook D14 2021 Intel Model:**
-
-[![Huawei](https://i.imgur.com/hVAkcmx.png)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore)
-
-![progress](https://img.shields.io/badge/progress-almost_done-orange.svg)
-
-**Available:** MacOS BigSur (until 11.6.2), Monterey (until 12.7), Ventura (until 13.4).
-
-Might be work on Intel Core i5 1135G7 and/or i5 1155G7 devices.
-
----
-
-**Asus H81M-K EFI:**
-
-[![AsusPC](https://i.imgur.com/RX50NRT.png)](https://github.com/sebasrock156/Asus-H81M-K-OpenCore)
-
-![progress](https://img.shields.io/badge/progress-in_early_developing-red.svg)
-
-**Available:** MacOS BigSur (until 11.6.2), Monterey (until 12.7), Ventura (until 13.4).
-
-Might be work on all Intel Core supported processors; for Xeons E3 models you need do some modifications.
-
----
-
-**Huananzhi X99E-K4 EFI:**
-
-[![HuananzhiPC](https://i.imgur.com/ukuasNB.png)](https://github.com/sebasrock156/Huananzhi-X99E-K4-Opencore)
-
-![progress](https://img.shields.io/badge/progress-in_early_developing-red.svg)
-
-**Available:** MacOS Monterey (until 12.7), Ventura (until 13.4).
-
-Might be work on all Intel LGA2011-3 supported processors.
-
----
-
-**AsRock B365M Pro4 EFI:**
-
-[![AsRock](https://i.imgur.com/Iyfv9DK.png)](https://github.com/sebasrock156/AsRock-B365M-Pro4-OpenCore)
-
-![progress](https://img.shields.io/badge/progress-in_early_developing-red.svg)
-
-**Available:** MacOS Monterey (until 12.7), Ventura (until 13.4).
-
-Might be work on all Intel LGA1151 supported processors.
-
+Support | Acer Aspire E5-471G | Asus X555QA/QG | Acer Aspire 5749G | Huawei Matebook D14/D15 2021 Intel
+--- | --- | --- | --- | :--: 
+Links | [![TravelMate](https://i.imgur.com/BKvumkU.png)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore) | [![Asus](https://i.imgur.com/yuAgctK.png)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh) | [![Aspire](https://i.imgur.com/G3qQ9T2.png)](https://github.com/sebasrock156/Acer-Aspire-5749-Hackintosh) | [![Huawei](https://i.imgur.com/hVAkcmx.png)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore)
+OSX 10.13 (High Sierra) | N/A | ✅ (testing, keyboard shortcuts broken) | N/A | N/A
+OSX 11 (BigSur) | ✅ | N/A | ❌ (works with a lot of lag, keyboard shortcuts broken) | ✅ (graphic glitches by VESA drivers)
+OSX 12 (Monterey) | ✅ | ✅ (testing) | ✅ (use OCLP for iGPU) | ✅ (graphic glitches by VESA drivers)
+OSX 13 (Ventura) | ✅ (use OCLP for iGPU) | N/A | ✅ (use OCLP for iGPU) | ✅ (graphic glitches by VESA drivers)
+OSX 14 (Sonoma) | ✅ (use OCLP for iGPU) | N/A | ❌ (kernel panic at boot) | ❌ (kernel panic at boot)
 ---
 
