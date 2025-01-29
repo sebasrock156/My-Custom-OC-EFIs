@@ -11,6 +11,7 @@ OSX 11 (BigSur) | ✅ | ✅ | ✅ | ✅ (remove the USBToolBox kexts) | N/A | N/
 OSX 12 (Monterey) | ✅ | ✅ | ✅ | ✅ | ✅ (testing) | N/A?
 OSX 13 (Ventura) | ✅ (use OCLP for iGPU)| ✅ (boot may be have some glicht)| ✅ | ✅ | ✅ (testing) | ✅ (testing)
 OSX 14 (Sonoma) | ✅ (use OCLP for iGPU) | ✅ (sleep mode works partially) | ✅ (use a dGPU instead if iGPU launch black screen via HDMI) | ✅ (sleep mode works partially) | ✅ (testing) | ✅ (testing)
+OSX 15 (Sequoia) | N/A | 🤷🏾‍♂️ (testing) | ✅ (testing) | 🤷🏾‍♂️ (testing) | ✅ (building EFI) | N/A?
 
 ## Laptop
 
