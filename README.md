@@ -17,7 +17,7 @@ OSX 15 (Sequoia) | N/A | 🤷🏾‍♂️ (testing) | ✅ (testing) | 🤷🏾�
 
 Support | Acer Aspire E5-471G | Asus X555QA/QG | Acer Aspire 5749G | Huawei Matebook D14/D15 2021 Intel | VIT P2412
 --- | --- | --- | --- | --- | :--: 
-Links | [![TravelMate](https://i.imgur.com/BKvumkU.png)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore) | [![Asus](https://i.imgur.com/yuAgctK.png)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh) | [![Aspire](https://i.imgur.com/G3qQ9T2.png)](https://github.com/sebasrock156/Acer-Aspire-5749-Hackintosh) | [![Huawei](https://i.imgur.com/hVAkcmx.png)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore) | ![VIT](soon)
+Links | [![TravelMate](https://i.imgur.com/BKvumkU.png)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore) | [![Asus](https://i.imgur.com/yuAgctK.png)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh) | [![Aspire](https://i.imgur.com/G3qQ9T2.png)](https://github.com/sebasrock156/Acer-Aspire-5749-Hackintosh) | [![Huawei](https://i.imgur.com/hVAkcmx.png)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore) | [![VIT](https://i.imgur.com/Q7tQabr.png)](https://github.com/sebasrock156/VIT-P2412-OpenCore)
 OSX 10.13 (High Sierra) | N/A | ✅ (testing, keyboard shortcuts broken) | N/A | N/A | N/A
 OSX 11 (BigSur) | ✅ | N/A | ❌ (works with a lot of lag, keyboard shortcuts broken) | ✅ (graphic glitches by VESA drivers) | ✅
 OSX 12 (Monterey) | ✅ | ✅ (testing) | ✅ (use OCLP for iGPU) | ✅ (graphic glitches by VESA drivers) | ✅
