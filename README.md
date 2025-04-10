@@ -8,10 +8,10 @@ Support | Asus H81M-K | Huananzhi X99E-K4 | AsRock B365M Pro4| AsRock X99 Extrem
 --- | --- | --- | --- | --- | --- | :--: 
 Links | [![H81M](https://i.imgur.com/NBLscqS.png)](https://github.com/sebasrock156/Asus-H81M-K-OpenCore) | [![HX99E](https://i.imgur.com/HPjSgUw.png)](https://github.com/sebasrock156/Huananzhi-X99E-K4-Opencore) | [![B365](https://i.imgur.com/AkI7XAk.png)](https://github.com/sebasrock156/AsRock-B365M-Pro4-OpenCore) | [![X99Ex4](https://i.imgur.com/Q8CgiQa.png)](https://github.com/sebasrock156/AsRock-X99-Opencore) | [![X399](https://i.imgur.com/baWhxO3.png)](soon)| [![A68](https://i.imgur.com/gUhAdDk.png)](soon)
 ![BS](https://i.imgur.com/XQi3ZKf.png) OSX 11 (BigSur) | ✅ | ✅ | ✅ | ✅ (remove the USBToolBox kexts) | N/A | N/A
-![MY](https://i.imgur.com/xcZ2v8a.png) OSX 12 (Monterey) | ✅ | ✅ | ✅ | ✅ | ✅ (testing) | N/A?
-![VA](https://i.imgur.com/KvpKPLD.png) OSX 13 (Ventura) | ✅ (use OCLP for iGPU)| ✅ (boot may be have some glicht)| ✅ | ✅ | ✅ (testing) | ✅ (testing)
-![SM](https://i.imgur.com/q5X0WXd.png) OSX 14 (Sonoma) | ✅ (use OCLP for iGPU) | ✅ (sleep mode works partially) | ✅ (use a dGPU instead if iGPU launch black screen via HDMI) | ✅ (sleep mode works partially) | ✅ (testing) | ✅ (testing)
-![SQ](https://i.imgur.com/EzZuom8.png) OSX 15 (Sequoia) | N/A | 🤷🏾‍♂️ (testing) | ✅ (testing) | 🤷🏾‍♂️ (testing) | ✅ (building EFI) | N/A?
+![MY](https://i.imgur.com/xcZ2v8a.png) OSX 12 (Monterey) | ✅ | ✅ | ✅ | ✅ | Cancelled | N/A?
+![VA](https://i.imgur.com/KvpKPLD.png) OSX 13 (Ventura) | ✅ (use OCLP for iGPU)| ✅ (boot may be have some glicht)| ✅ | ✅ | Cancelled | ✅ (testing)
+![SM](https://i.imgur.com/q5X0WXd.png) OSX 14 (Sonoma) | ✅ (use OCLP for iGPU) | ✅ (sleep mode works partially) | ✅ (use a dGPU instead if iGPU launch black screen via HDMI) | ✅ (sleep mode works partially) | Cancelled | ✅ (testing)
+![SQ](https://i.imgur.com/EzZuom8.png) OSX 15 (Sequoia) | N/A | 🤷🏾‍♂️ (testing) | ✅ (testing) | 🤷🏾‍♂️ (testing) | Cancelled | N/A?
 
 ## Laptop
 
