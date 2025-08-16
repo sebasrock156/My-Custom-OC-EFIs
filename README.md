@@ -11,7 +11,7 @@ Links | [![H81M](https://i.imgur.com/NBLscqS.png)](https://github.com/sebasrock1
 ![MY](https://i.imgur.com/xcZ2v8a.png) OSX 12 (Monterey) | ✅ | ✅ | ✅ | ✅ | Cancelled | N/A?
 ![VA](https://i.imgur.com/KvpKPLD.png) OSX 13 (Ventura) | ✅ (use OCLP for iGPU)| ✅ (boot may be have some glicht)| ✅ | ✅ | Cancelled | ✅ (testing)
 ![SM](https://i.imgur.com/q5X0WXd.png) OSX 14 (Sonoma) | ✅ (use OCLP for iGPU) | ✅ (sleep mode works partially) | ✅ (use a dGPU instead if iGPU launch black screen via HDMI) | ✅ (sleep mode works partially) | Cancelled | ✅ (testing)
-![SQ](https://i.imgur.com/EzZuom8.png) OSX 15 (Sequoia) | N/A | 🤷🏾‍♂️ (testing) | ✅ (testing) | 🤷🏾‍♂️ (testing) | Cancelled | N/A?
+![SQ](https://i.imgur.com/EzZuom8.png) OSX 15 (Sequoia) | N/A | ✅ (testing) | ✅ (testing) | ✅ (testing) | Cancelled | 🤷🏾‍♂️ (testing)
 
 ## Laptop
 
