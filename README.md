@@ -4,15 +4,15 @@ This is a compilation of my EFIs for Hackintosh, see more info below:
 
 ## Desktop
 
-Support | Asus H81M-K | Huananzhi X99E-K4 | AsRock B365M Pro4| AsRock X99 Extreme4 | AsRock X399 Taichi | MSI A68HM-P33
+Support | Asus H81M-K | Huananzhi X99E-K4 | AsRock B365M Pro4| AsRock X99 Extreme4 | Asus B450M-A | MSI A68HM-P33
 --- | --- | --- | --- | --- | --- | :--: 
-Links | [![H81M](https://i.imgur.com/NBLscqS.png)](https://github.com/sebasrock156/Asus-H81M-K-OpenCore) | [![HX99E](https://i.imgur.com/HPjSgUw.png)](https://github.com/sebasrock156/Huananzhi-X99E-K4-Opencore) | [![B365](https://i.imgur.com/AkI7XAk.png)](https://github.com/sebasrock156/AsRock-B365M-Pro4-OpenCore) | [![X99Ex4](https://i.imgur.com/Q8CgiQa.png)](https://github.com/sebasrock156/AsRock-X99-Opencore) | [![X399](https://i.imgur.com/baWhxO3.png)](soon)| [![A68](https://i.imgur.com/gUhAdDk.png)](soon)
+Links | [![H81M](https://i.imgur.com/NBLscqS.png)](https://github.com/sebasrock156/Asus-H81M-K-OpenCore) | [![HX99E](https://i.imgur.com/HPjSgUw.png)](https://github.com/sebasrock156/Huananzhi-X99E-K4-Opencore) | [![B365](https://i.imgur.com/AkI7XAk.png)](https://github.com/sebasrock156/AsRock-B365M-Pro4-OpenCore) | [![X99Ex4](https://i.imgur.com/Q8CgiQa.png)](https://github.com/sebasrock156/AsRock-X99-Opencore) | [![B450M](https://i.imgur.com/KOlbqNu.png)](soon)| [![A68](https://i.imgur.com/gUhAdDk.png)](soon)
 ![BS](https://i.imgur.com/XQi3ZKf.png) OSX 11 (BigSur) | ✅ | ✅ | ✅ | ✅ (remove the USBToolBox kexts) | N/A | N/A
-![MY](https://i.imgur.com/xcZ2v8a.png) OSX 12 (Monterey) | ✅ | ✅ | ✅ | ✅ | Cancelled | 🤷🏾‍♂️
-![VA](https://i.imgur.com/KvpKPLD.png) OSX 13 (Ventura) | ✅ (use OCLP for iGPU)| ✅ (boot may be have some glicht)| ✅ | ✅ | Cancelled | (testing)
-![SM](https://i.imgur.com/q5X0WXd.png) OSX 14 (Sonoma) | ✅ (use OCLP for iGPU) | ✅ (sleep mode works partially) | ✅ (use a dGPU instead if iGPU launch black screen via HDMI) | ✅ (sleep mode works partially) | Cancelled | 🤷🏾‍♂️
-![SQ](https://i.imgur.com/EzZuom8.png) OSX 15 (Sequoia) | N/A | (testing) | N/A | (testing) | Cancelled | 🤷🏾‍♂️ 
-![TH](https://i.imgur.com/E4EFOOM.png) OSX 26 (Tahoe) | N/A | (testing) | N/A | ✅ (you need install AppleHDA)| Cancelled | N/A
+![MY](https://i.imgur.com/xcZ2v8a.png) OSX 12 (Monterey) | ✅ | ✅ | ✅ | ✅ | 🤷🏾‍♂️ | 🤷🏾‍♂️
+![VA](https://i.imgur.com/KvpKPLD.png) OSX 13 (Ventura) | ✅ (use OCLP for iGPU)| ✅ (boot may be have some glicht)| ✅ | ✅ | 🤷🏾‍♂️ | (testing)
+![SM](https://i.imgur.com/q5X0WXd.png) OSX 14 (Sonoma) | ✅ (use OCLP for iGPU) | ✅ (sleep mode works partially) | ✅ (use a dGPU instead if iGPU launch black screen via HDMI) | ✅ (sleep mode works partially) | 🤷🏾‍♂️ | 🤷🏾‍♂️
+![SQ](https://i.imgur.com/EzZuom8.png) OSX 15 (Sequoia) | N/A | (testing) | N/A | (testing) | 🤷🏾‍♂️ | 🤷🏾‍♂️ 
+![TH](https://i.imgur.com/E4EFOOM.png) OSX 26 (Tahoe) | N/A | (testing) | N/A | ✅ (you need install AppleHDA)| 🤷🏾‍♂️ | N/A
 
 ## Laptop
 
