@@ -12,7 +12,7 @@ Links | [![H81M](https://i.imgur.com/NBLscqS.png)](https://github.com/sebasrock1
 ![VA](https://i.imgur.com/KvpKPLD.png) OSX 13 (Ventura) | ✅ (use OCLP for iGPU)| ✅ (boot may be have some glicht)| ✅ | ✅ | 🤷🏾‍♂️ | (testing)
 ![SM](https://i.imgur.com/q5X0WXd.png) OSX 14 (Sonoma) | ✅ (use OCLP for iGPU) | ✅ (sleep mode works partially) | ✅ (use a dGPU instead if iGPU launch black screen via HDMI) | ✅ (sleep mode works partially) | 🤷🏾‍♂️ | 🤷🏾‍♂️
 ![SQ](https://i.imgur.com/EzZuom8.png) OSX 15 (Sequoia) | N/A | (testing) | N/A | (testing) | 🤷🏾‍♂️ | 🤷🏾‍♂️ 
-![TH](https://i.imgur.com/E4EFOOM.png) OSX 26 (Tahoe) | N/A | (testing) | N/A | ✅ (you need install AppleHDA)| 🤷🏾‍♂️ | N/A
+![TH](https://i.imgur.com/E4EFOOM.png) OSX 26 (Tahoe) | N/A | (testing) | N/A | ✅ (you need install AppleHDA)| (testing) | N/A
 
 ## Laptop
 
