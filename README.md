@@ -24,7 +24,7 @@ Links | [![TravelMate](https://i.imgur.com/Uo26f0M.png)](https://github.com/seba
 ![MY](https://i.imgur.com/xcZ2v8a.png) OSX 12 (Monterey) | ✅ | (testing) | ✅ (use OCLP for iGPU) | ✅ (graphic glitches by VESA drivers) | ✅ | ❌ (bootloop on Installer)
 ![VA](https://i.imgur.com/KvpKPLD.png) OSX 13 (Ventura) | ✅ (use OCLP for iGPU) | N/A | ✅ (use OCLP for iGPU) | ✅ (graphic glitches by VESA drivers) | ✅ (testing, use OCLP for iGPU) | ✅
 ![SM](https://i.imgur.com/q5X0WXd.png) OSX 14 (Sonoma) | ✅ (use OCLP for iGPU) | N/A | ❌ (kernel panic at boot) | ❌ (kernel panic at boot) | 🤷🏾‍♂️ (testing) | ✅
-![TH](https://i.imgur.com/E4EFOOM.png) OSX 26 (Tahoe) | 🤷🏾‍♂️ | N/A | 🤷🏾‍♂️ | ❌ (kernel panic at boot) | 🤷🏾‍♂️ | 🤷🏾‍♂️ 
+![TH](https://i.imgur.com/E4EFOOM.png) OSX 26 (Tahoe) | In testing phase ✅ (PS/2 devices are dead, use USB mouse and keyboard instead)| N/A | 🤷🏾‍♂️ | ❌ (kernel panic at boot) | 🤷🏾‍♂️ | 🤷🏾‍♂️ 
 
 ---
 
